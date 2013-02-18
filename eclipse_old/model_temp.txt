@@ -1,0 +1,8 @@
+Name: AAPL
+S0: 450
+R: 1000
+t: 1
+alpha: 0.2
+theta: 0.02
+sd: 0.02
+miu: 0.1

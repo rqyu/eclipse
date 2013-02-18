@@ -1,0 +1,94 @@
+RIM supply chain(2013 Q1):
+(company name: income from rim%/ cost induced by rim%)
+Western Digital:0.58/26.77
+Jabil Circuit:10.00/15.76
+Celestica inc.:19.00/11.03
+Flextronics intl:2.86/7.77
+Fujitsu Ltd:0.63/4.61
+Qualcomm inc:1.66/3.72
+SAP AG:0.05/2.91
+Sony corp:0.21/2.20
+Computer science(CSC US):0.48/2.13
+Agilent tech inc:0.09/1.80
+LG display co lt:0.65/1.78
+IBM:0.05/1.31
+Accenture plc-a:0.16/1.16
+Freescale semico:3.21/1.04
+Dover corp:1.03/0.93
+Microsoft corp:0.11/0.90
+Sandisk corp:1.57/0.86
+Renesas electron:0.75/0.78
+Broadcom corp-a:0.84/0.70
+TDK corp:0.61/0.70
+SEIKO epson:0.64/0.59
+Interdigital inc:17.00/0.42
+Exelis inc:1.07/0.42
+infineon tech:0.69/0.40
+avago technologi:1.24/0.37
+rohm co ltd:0.85/0.36
+texas instrument:0.24/0.34
+anadigics inc:0.22/0.28
+maxim integrated:0.94/0.25
+marvell tech grp:0.67/0.24
+te connectivity:0.14/0.24
+catcher tech:1.54/0.15
+skyworks solution:1.44/0.15
+akamai technology:0.03/0.12
+dialog semicond:1.14/0.11
+triquint semicon:1.15/0.09
+materion corp:0.56/0.09
+molex inc:0.16/0.07
+semtech corp:0.8/0.06
+nxp semiconducto:0.15/0.05
+csr plc:0.36/0.04
+fairchild semico:0.2/0.03
+cypress semicon:0.18/0.01
+diodes inc:0.20/0.01
+invensense inc:0.75/0.01
+publicis groupe:0.01/0.01
+synaptics inc:0.17/0.01
+citrix systems:0.02/0.01
+
+RIM customers:
+(company name: income from rim/ COGS)
+at&t inc:5.97/1.20
+verizon communic:5.39/1.41
+deutsche telekom:5.36/1.31
+vodafone group:5.34/1.22
+ingram micro inc:4.01/1.34
+China mobile:3.22/0.65
+sk telecom:2.17/2.02
+bharti airtel:1.96/1.74
+best buy co inc:1.91/1.74
+brightpoint inc: 1.88/6.12
+sprint nextel co:	1.47/0.97
+portugal tel-reg:1.43/2.26
+redington india:1.13/3.58
+rogers communi-b:1.1/1.33
+mtn group ltd:1.05/2.26
+bce inc:0.8/0.63
+saudi telecom co:0.74/1.21
+turkcell iletisi:0.73/2.26
+radioshack corp:0.65/2.91
+mobile telesyst:0.58/1.91
+america movil-l:0.56/0.19
+tele2 ab-b shs:0.56/1.78
+telef brasi-pref:0.49/0.71
+taiwan mobile co:0.41/2.26
+us cellular corp:0.39/2.26
+leap wireless:0.37/2.26
+telstra corp:0.36/0.65
+millicom intl:0.34/2.26
+mobile telecommu:0.25/2.26
+reliance communi:0.25/1.42
+cellcom israel: 0.17/2.26
+maxis bhd:0.17/2.14
+ptcl:0.15/2.26
+singap telecomm:0.10/0.89
+metropcs communi:0.07/0.32
+ntelos holdings:0.04/2.26
+partner comm co:0.03/0.33
+tech data corp:0.03/0.01
+cincinnati bell:0.02/0.36
+go plc:0.01/0.73
+idea cellular:0.01/2.04

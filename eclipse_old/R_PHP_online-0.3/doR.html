@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<TITLE>R_PHP_Online</TITLE>
+</HEAD>
+<BODY>
+&nbsp;<P>
+<CENTER>
+<B><A href=index.html><FONT size=5>R_PHP_Online</a></FONT><FONT size=3>--
+Online PHP CGI for R program</FONT><P>
+
+by <A HREF="mailto:steve@stat.tku.edu.tw"><font size=2>Steve Chen</font></a>
+in <A HREF="http://www.stat.tku.edu.tw" target=_blank>Department of Statistics</A>, 
+<A HREF="http://www.tku.edu.tw" target=_blank>TKU</A>, 
+Taipei, Taiwan<p>
+<A href="http://netstat.stat.tku.edu.tw/index_e.php" target=_blank">Check out Net-Stat in Dept. of Statistics, TKU</a></CENTER>
+<P>
+<h2 align=center>DEMO</h2><P>
+<TABLE align=center><TR><TD>
+
+<FORM action="doR.php" method="post">
+
+Please input your R program below:<br>
+(You CANNOT enter <a href=show_banned.php><font color=red>banned R functions</font></a>)<p>
+<TEXTAREA cols=70 rows=15 name="r_code"></TEXTAREA>
+<p>
+<INPUT TYPE="submit" VALUE="Submit">&nbsp;&nbsp;
+<INPUT TYPE="reset" VALUE="Clear">
+</FORM>
+<P>
+Examples:<P>
+1.Simple:
+<BLOCKQUOTE>
+x = c(12,13,14,15,16)<BR>
+sum(x)<BR>
+mean(x)<BR>
+</BLOCKQUOTE>
+
+2.You can show R plot(s) as the following example:<BR>
+&nbsp;&nbsp;&nbsp;
+(You MUST use the <font color=blue>bitmap</font> and <font color=blue>dev.off</font> functions to generate a plot)<BR>
+&nbsp;&nbsp;&nbsp;
+(Graphic file format can be <font color=blue>jpg</font> or <font color=blue>png</font>)<P>
+<BLOCKQUOTE>
+   x = c(12,13,14,12,12)<BR>
+   y = c(7,5,34,2,42)<BR>
+   # first plot<BR>
+   <font color=blue>bitmap</font>(file="test1.jpg")<BR>
+   hist(x,col=2) <BR>
+   <font color=blue>dev.off()</font><BR>
+   # second plot<BR>
+   <font color=blue>bitmap</font>(file="test2.png")<BR>
+   plot(x,y)<BR>
+   <font color=blue>dev.off()</font><BR>
+</BLOCKQUOTE>
+   <P>
+</UL>
+
+</TD></TR></TABLE>
+</BODY>
+</HTML>

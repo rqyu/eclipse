@@ -1,0 +1,6 @@
+#eclipse_header {position:relative; float:left; top:0px; width:100%;}
+#eclipse_footer {position:relative; float:left; bottom:0px; width:100%;}
+#eclipse_main {position:relative; float:left; text-align:center; width:100%;}
+
+#eclipse_center{position:relative; width:50%; float:left;}
+#eclipse_right{position:relative; float:left; width:25%;}

@@ -1,0 +1,35 @@
+timeline:
+YYYY, MM, DD
+2010, 03, 03	iPad
+2010, 06, 04	Samsung Galaxy S, HTC Evo 4G
+2010, 06, 15	iP4
+2010, 08, 03	BB torch 9810 with BBOS 6
+2010, 09, 01	iPod Touch 4
+2010, 10, 22	Nokia N8
+2011, 01, 06	HTC thunderbolt
+2011, 03, 02	iPad 2
+2011, 04, 19	BB playbook
+2011, 05, 02	Samsung Galaxy SII
+2011, 08,		BB curve 9350s, Samsung Galaxy Y
+2011, 08, 03	BB 9900/9930 7 series
+2011, 08, 12	BB torch 9810
+2011, 08, 15	Google buys Motorola
+2011, 08, 29	BB torch 9860
+2011, 09, 08	Motorola Droid Bionic
+2011, 10, 14	iP4S with iOS 5 and Siri Beta
+2011, 11, 15	BB bold 9790
+2012, 01, 09	BB OS7
+2012, 03, 07	iPad 3
+2012, 03, 29	Samsung Galaxy SIII
+2012, 04,		BB curve 9380s
+2012, 05, 11	Microsoft buys Skype
+2012, 07,		BB 9220s/9320s
+2012, 07, 13	Google Nexus 7 pad
+2012, 09, 12	iP5 with iOS 6
+2012, 10, 03	BB playbook OS2.1
+2012, 10, 15	iPod Touch 5
+2012, 10, 17	Esri buys Geoloqi
+2012, 10, 23	iPad mini
+2012, 10, 26	Microsoft Surface
+2012, 11, 02	iPad 4
+2012, 11, 13	Google Nexus 10 pad
