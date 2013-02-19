@@ -43,8 +43,11 @@ try:
 	'''
 
 #	to_stock = '''
-
-	cur.execute("""SELECT ticker,company_id FROM Company""")
+	cur.execute("""SELECT max(price_id),ticker FROM Stock;""")
+	break_point = [[x[0], x[1]] for x in cur.fetchall()]
+	cur.execute("""ALTER TABLE Stock AUTO_INCREMENT=%d;""" % break_point[0])
+	cur.execute("""DELETE FROM Stock WHERE ticker=\'%s\'""" % break_point[1])
+	cur.execute("""SELECT ticker,company_id FROM Company WHERE ticker>=\'%s\';""" % break_point[1])
 	all_ticker = [x[0] for x in cur.fetchall()]
 	#print 'got tickers']
 	coun = 0
